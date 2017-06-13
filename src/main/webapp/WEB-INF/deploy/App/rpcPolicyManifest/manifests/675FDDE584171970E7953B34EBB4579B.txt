@@ -1,0 +1,2 @@
+serviceClass: washo.gmd.app.client.services.GetGameService
+path: D2979974F31FC49C7A78D28575BF8395.gwt.rpc

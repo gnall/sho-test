@@ -1,0 +1,4 @@
+# Module App
+# RPC service class, partial path of RPC policy file
+washo.gmd.app.client.services.GetGameService, D2979974F31FC49C7A78D28575BF8395.gwt.rpc
+com.googlecode.gwtphonegap.client.log.shared.PhoneGapLogService, EB6D486BE2E1379E87066D32219DFE5B.gwt.rpc
