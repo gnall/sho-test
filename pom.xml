@@ -4,7 +4,7 @@
 	
 	<groupId>com.washo.gmd</groupId>
 	<artifactId>washo-gmd-app</artifactId>
-	<version>1.0-SNAPSHOT</version>
+	<version>1.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
 	<name>GWT Material Errai Archetype</name>
